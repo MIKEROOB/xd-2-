@@ -1,2 +1,8 @@
-# xd-2-
-estilos de word
+# estilo de word-
+soy un titulo
+#Encabezado h1
+##Encabezado h2
+###Encabezado h3
+####Encabezado h4
+#####Encabezado h5
+######Encabezado h6
